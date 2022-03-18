@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 
+/*
     // starting menu
 
     string load;
@@ -38,7 +39,7 @@ int main()
     cout << "   / / /   / / /   / / /\n\n" << endl;
 
     // end starting menu ^
-
+*/
     cout << "\t\t*** Registration and Login system version 1.0.0 by Omar Ashraf ***\n" << endl;
     cout << "Welcome to said system! Are you new here or are you already registered with us?" << endl;
 
